@@ -9,8 +9,7 @@ guesses with confidence scores.
 
 ## Demo
 
-![screenshot](screenshot.png)
-*(add your own screenshot here after running the app)*
+<img width="767" height="855" alt="image" src="https://github.com/user-attachments/assets/16a5d601-fc49-46c6-8226-d412da98c109" />
 
 ## How it works
 
